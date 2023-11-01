@@ -1,0 +1,14 @@
+[
+  {
+    "LeaveTypeID": "ac08bd94-5d63-4cb5-bd7f-056b66f0c275",
+    "LeaveTypeName": "Annual leave"
+  },
+  {
+    "LeaveTypeID": "c05e2b7f-8574-4b5b-b515-5f57a9faebe9",
+    "LeaveTypeName": "Sick leave"
+  },
+  {
+    "LeaveTypeID": "8164ba91-22d1-4962-89c7-f78fbd4bb2f8",
+    "LeaveTypeName": "Emergency leave"
+  }
+]

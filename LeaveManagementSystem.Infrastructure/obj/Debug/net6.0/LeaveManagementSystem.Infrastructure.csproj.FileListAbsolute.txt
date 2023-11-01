@@ -1,0 +1,17 @@
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Infrastructure\bin\Debug\net6.0\LeaveManagementSystem.Infrastructure.deps.json
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Infrastructure\bin\Debug\net6.0\LeaveManagementSystem.Infrastructure.runtimeconfig.json
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Infrastructure\bin\Debug\net6.0\LeaveManagementSystem.Infrastructure.dll
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Infrastructure\bin\Debug\net6.0\LeaveManagementSystem.Infrastructure.pdb
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Infrastructure\bin\Debug\net6.0\LeaveManagementSystem.Core.dll
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Infrastructure\bin\Debug\net6.0\LeaveManagementSystem.Core.pdb
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Infrastructure\obj\Debug\net6.0\LeaveManagementSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Infrastructure\obj\Debug\net6.0\LeaveManagementSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Infrastructure\obj\Debug\net6.0\LeaveManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Infrastructure\obj\Debug\net6.0\LeaveManagementSystem.Infrastructure.AssemblyInfo.cs
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Infrastructure\obj\Debug\net6.0\LeaveManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Infrastructure\obj\Debug\net6.0\LeaveManagementSystem.Infrastructure.csproj.CopyComplete
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Infrastructure\obj\Debug\net6.0\LeaveManagementSystem.Infrastructure.dll
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Infrastructure\obj\Debug\net6.0\refint\LeaveManagementSystem.Infrastructure.dll
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Infrastructure\obj\Debug\net6.0\LeaveManagementSystem.Infrastructure.pdb
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Infrastructure\obj\Debug\net6.0\LeaveManagementSystem.Infrastructure.genruntimeconfig.cache
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Infrastructure\obj\Debug\net6.0\ref\LeaveManagementSystem.Infrastructure.dll

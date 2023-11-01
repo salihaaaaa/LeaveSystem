@@ -1,0 +1,12 @@
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Core\bin\Debug\net6.0\LeaveManagementSystem.Core.deps.json
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Core\bin\Debug\net6.0\LeaveManagementSystem.Core.dll
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Core\bin\Debug\net6.0\LeaveManagementSystem.Core.pdb
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Core\obj\Debug\net6.0\LeaveManagementSystem.Core.csproj.AssemblyReference.cache
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Core\obj\Debug\net6.0\LeaveManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Core\obj\Debug\net6.0\LeaveManagementSystem.Core.AssemblyInfoInputs.cache
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Core\obj\Debug\net6.0\LeaveManagementSystem.Core.AssemblyInfo.cs
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Core\obj\Debug\net6.0\LeaveManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Core\obj\Debug\net6.0\LeaveManagementSystem.Core.dll
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Core\obj\Debug\net6.0\refint\LeaveManagementSystem.Core.dll
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Core\obj\Debug\net6.0\LeaveManagementSystem.Core.pdb
+C:\aspnetcore\LeaveManagementSystemSolution\LeaveManagementSystem.Core\obj\Debug\net6.0\ref\LeaveManagementSystem.Core.dll
